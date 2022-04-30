@@ -1,0 +1,3 @@
+here is the result:
+ hello this is nodejs practice first
+ hello this is nodejs practice seconde
