@@ -1,4 +1,4 @@
-const {readFile, writeFile} = require("fs")
+const { readFile, writeFile } = require("fs")
 const util = require("util")
 // Or we can also do require('fs').promises in line 1 so we dont need that
 const readFilePromise = util.promisify(readFile)
